@@ -26,7 +26,7 @@ Downloads 5 years of daily prices via **yfinance**. If Yahoo Finance is unavaila
 
 ```bash
 pip install -r requirements.txt
-python monte_carlo.py
+python MonteCarloSimulator.py
 ```
 
 -----
@@ -50,7 +50,7 @@ outputs/
 
 ```
 monte-carlo/
-├── monte_carlo.py    # Main script
+├── MonteCarloSimulator.py    # Main script
 ├── requirements.txt
 ├── README.md
 ├── figures/
